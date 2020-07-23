@@ -1,1 +1,6 @@
 Hello world
+
+Git Merge Conflict 
+
+print("hello world")
+print("goodbye world")
